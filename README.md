@@ -1,2 +1,2 @@
 # Cl-nica-del-occidente
-Página web desarrollada con base en los diseños solicitados por el cliente, cumpliendo con los requisitos definidos y garantizando el correcto funcionamiento de su estructura. Desarrollada con html, css y javascript
+Página web creada a partir de una plantilla base, la cual fue adaptada y personalizada según los diseños y requisitos del cliente, asegurando una estructura funcional y una correcta experiencia de uso
